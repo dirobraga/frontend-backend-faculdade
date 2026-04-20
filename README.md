@@ -1,6 +1,6 @@
 #  Sistema de Contas a Pagar
 
-Um sistema web simples e eficiente para gerenciamento financeiro focado em contas a pagar. Este projeto permite o controle detalhado de despesas, facilitando a organização das obrigações financeiras, acompanhamento de vencimentos e alteração de status de pagamento.
+Um sistema web simples e eficiente para gerenciamento financeiro focado em contas a pagar. Este projeto permite o controle detalhado de despesas, facilitando a organização das obrigações financeiras, acompanhamento de vencimentos e alteração de status de pagamento. Projeto de frontend e backend da faculdade.
 
 ##  Funcionalidades
 
