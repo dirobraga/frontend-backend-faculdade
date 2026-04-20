@@ -1,13 +1,12 @@
 <?php
 // ============================================================
 // Configuração do Banco de Dados
-// EDITE ESTE ARQUIVO com suas credenciais de hospedagem
 // ============================================================
 
 define('DB_HOST',     'localhost');   // Endereço do servidor MySQL
 define('DB_NAME',     'u199367788_SjJHpEoZL_fincontrol');  // Nome do banco de dados
-define('DB_USER',     'u199367788_SjJHpEoZL_bd8531');        // Usuário do banco
-define('DB_PASSWORD', 'Bd38088531@');            // Senha do banco
+define('DB_USER',     '');        // Usuário do banco
+define('DB_PASSWORD', '');            // Senha do banco
 define('DB_CHARSET',  'utf8mb4');
 
 function getDB(): PDO {
